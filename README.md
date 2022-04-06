@@ -1,5 +1,4 @@
-# SawmonAbo_Portfolio
-Computer/Data Science Portfolio
+
 
 # [Project 1:  Web scraping For Jobs](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
 *  Perform web scraping with Python using the Beautiful Soup library.
