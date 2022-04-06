@@ -7,7 +7,7 @@ Data Science Portfolio
 *  Includes filter to exclude a specific skill.
 
 
-# Project 2: House Price Prediction
+# [Project 2: House Price Prediction](https://github.com/Sawmonabo/HousePricePrediction)
 * Purpose of this project is to research and apply the various machine learning regression algorithms to undertake different models.
 * Identify a hedonic property price model that can be used to predict residential property prices in Orlando as a function of the physical and locational attributes of the properties. 
 * The data is first preprocessed and is then analyzed to summarize the main characteristics of the variables such as their correlation or any observable patterns.
