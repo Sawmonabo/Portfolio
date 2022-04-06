@@ -1,7 +1,13 @@
 # Sawmon_Portfolio
 Data Science Portfolio
 
-# Project 1: Home Price Prediction
+# Project 1:  Web scraping For Jobs
+*  Perform web scraping with Python using the Beautiful Soup library.
+*  Looking for python related job listing on Times Jobs website
+*  Includes filter to exclude a specific skill.
+
+
+# Project 2: Home Price Prediction
 * Purpose of this project is to research and apply the various machine learning regression algorithms to undertake different models.
 * Identify a hedonic property price model that can be used to predict residential property prices in Orlando as a function of the physical and locational attributes of the properties. 
 * The data is first preprocessed and is then analyzed to summarize the main characteristics of the variables such as their correlation or any observable patterns.
