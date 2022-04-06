@@ -1,7 +1,7 @@
 # Sawmon_Portfolio
 Data Science Portfolio
 
-# Project 1:  Web scraping For Jobs
+# [Project 1:  Web scraping For Jobs](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
 *  Perform web scraping with Python using the Beautiful Soup library.
 *  Looking for python related job listing on Times Jobs website
 *  Includes filter to exclude a specific skill.
