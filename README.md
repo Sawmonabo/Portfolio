@@ -1,13 +1,13 @@
 
 # Contact Information
 > 
-> Linkedin, [click here](https://www.linkedin.com/in/sawmonabo).
+> LinkedIn, [click here](https://www.linkedin.com/in/sawmonabo).
 > 
 > Github, [click here](https://github.com/Sawmonabo).
 > 
 > Twitter, [click here](https://twitter.com/Sawmonabo)
 
-# My Resume
+# Additional Resources
 > Resume, [click here](https://www.linkedin.com/in/sawmonabo/overlay/1635487385096/single-media-viewer/).
 
 
