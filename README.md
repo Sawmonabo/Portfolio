@@ -5,7 +5,7 @@
 > For a to my Linkedin profile, [click here](https://www.linkedin.com/in/sawmonabo).
 
 
-# Projects
+# Projects:
 
 ### [Project 1:  Web scraping For Jobs](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
 *  Perform web scraping with Python using the Beautiful Soup library.
