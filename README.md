@@ -1,4 +1,11 @@
-## [Resume: Click Here](https://www.linkedin.com/in/sawmonabo/overlay/1635487385096/single-media-viewer/)
+
+## Additional Information
+For a link to my current resume, [click here](https://www.linkedin.com/in/sawmonabo/overlay/1635487385096/single-media-viewer/).
+
+For a to my Linkedin profile, [click here](https://www.linkedin.com/in/sawmonabo).
+
+
+
 
 # [Project 1:  Web scraping For Jobs](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
 *  Perform web scraping with Python using the Beautiful Soup library.
