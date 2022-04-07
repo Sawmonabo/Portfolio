@@ -1,8 +1,14 @@
 
-# Additional Information
-> For a link to my current resume, [click here](https://www.linkedin.com/in/sawmonabo/overlay/1635487385096/single-media-viewer/).
+# Contact Information
 > 
-> For a to my Linkedin profile, [click here](https://www.linkedin.com/in/sawmonabo).
+> Linkedin, [click here](https://www.linkedin.com/in/sawmonabo).
+> 
+> Github, [click here](https://github.com/Sawmonabo).
+> 
+> Twitter, [click here](https://twitter.com/Sawmonabo)
+
+# My Resume
+> Resume, [click here](https://www.linkedin.com/in/sawmonabo/overlay/1635487385096/single-media-viewer/).
 
 
 # Projects:
