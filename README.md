@@ -6,6 +6,8 @@
 > Github, [click here](https://github.com/Sawmonabo).
 > 
 > Twitter, [click here](https://twitter.com/Sawmonabo)
+>
+> Email: a.sawmon@knights.ucf.edu
 
 # Additional Resources
 > Resume, [click here](https://www.linkedin.com/in/sawmonabo/overlay/1635487385096/single-media-viewer/).
