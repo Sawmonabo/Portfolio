@@ -2,8 +2,11 @@
 # Contact Information
 > 
 > LinkedIn, [click here](https://www.linkedin.com/in/sawmonabo).
+> 
 > Github, [click here](https://github.com/Sawmonabo).
+> 
 > Twitter, [click here](https://twitter.com/Sawmonabo)
+> 
 > Email: a.sawmon@knights.ucf.edu
 
 # Additional Resources
