@@ -5,12 +5,13 @@
 > 
 > Github, [click here](https://github.com/Sawmonabo).
 > 
-> Twitter, [click here](https://twitter.com/Sawmonabo)
+> Twitter, [click here](https://twitter.com/Sawmonabo).
 > 
 > Email: a.sawmon@knights.ucf.edu
 
 # Additional Resources
-> Resume, [click here](https://www.linkedin.com/in/sawmonabo/overlay/1635487385096/single-media-viewer/).
+> Resume, [click here](https://github.com/Sawmonabo/SawmonAbo_Portfolio/files/8448381/resume.pdf)
+
 
 
 # Projects:
@@ -19,6 +20,9 @@
 *  Perform web scraping with Python using the Beautiful Soup library.
 *  Looking for python related job listing on Times Jobs website
 *  Includes filter to exclude a specific skill.
+
+<img src="https://user-images.githubusercontent.com/77422313/162359726-8b3725f5-9b2f-4fb2-8ffe-5516f5a5ad45.png" width="400" height="250">
+
 
 
 ### [Project 2: House Price Prediction](https://github.com/Sawmonabo/HousePricePrediction)
@@ -29,6 +33,6 @@
 * Optimized Linear, Lasso, Ridge, and Extreme Gradient Boosting using RandomSearchCV to reach the best model.
 * The best model will be identified by the measure of MSE (mean squared error) and its accuracy to the validation set.
 
+<img src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png" width="400" height="250">
 
-![image](https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png)
 
