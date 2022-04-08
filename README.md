@@ -15,14 +15,16 @@
 
 
 # Projects:
-<img align="right" width="250" height="190" src="https://user-images.githubusercontent.com/77422313/162359726-8b3725f5-9b2f-4fb2-8ffe-5516f5a5ad45.png">
 
+<img align="right" width="250" height="190" src="https://user-images.githubusercontent.com/77422313/162359726-8b3725f5-9b2f-4fb2-8ffe-5516f5a5ad45.png">
 
 ### [Project 1:  Web scraping For Jobs](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
 *  Perform web scraping with Python using the Beautiful Soup library.
 *  Looking for python related job listing on Times Jobs website
 *  Includes filter to exclude a specific skill.
-
+<!-- <p align="center">
+  <img width="300" height="250" src="https://user-images.githubusercontent.com/77422313/162359726-8b3725f5-9b2f-4fb2-8ffe-5516f5a5ad45.png">
+</p> -->
 
 
 
@@ -36,8 +38,6 @@
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png">
 </p>
-
-
 <!-- <img src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png" width="400" height="250"> -->
 
 
