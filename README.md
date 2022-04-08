@@ -16,8 +16,6 @@
 
 # Projects:
 
-<img align="right" width="250" height="190" src="https://user-images.githubusercontent.com/77422313/162359726-8b3725f5-9b2f-4fb2-8ffe-5516f5a5ad45.png">
-
 ### [Project 1:  Web scraping For Jobs](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
 *  Perform web scraping with Python using the Beautiful Soup library.
 *  Looking for python related job listing on [TimesJobs](https://www.timesjobs.com/) website.
