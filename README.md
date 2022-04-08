@@ -40,3 +40,9 @@
 <!-- <img src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png" width="400" height="250"> -->
 
 
+
+### Project 2: Stock Ticker Analyzer (Java Program)
+* COMING SOON :)
+* Using Javs's JSoup.jar to scrape stock (ticker) data off of Google Finance.
+* Creating and using methods to perform stock analysis.
+* Object Oriented Program
