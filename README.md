@@ -41,8 +41,8 @@
 
 
 
-### Project 3: Stock Ticker Analyzer (Java Program)
-* COMING SOON :)
+### [Project 3: Stock Ticker Analyzer (Java Program)](https://github.com/Sawmonabo/StockAnalysis)
+* COMING SOON TO A GitHub NEAR YOU ;)
 * Using Javs's JSoup.jar to scrape stock (ticker) data off of Google Finance.
 * Creating and using methods to perform stock analysis.
 * Object Oriented Program
