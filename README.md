@@ -22,6 +22,7 @@
 *  Perform web scraping with Python using the Beautiful Soup library.
 *  Looking for python related job listing on Times Jobs website
 *  Includes filter to exclude a specific skill.
+
 <!-- <p align="center">
   <img width="300" height="250" src="https://user-images.githubusercontent.com/77422313/162359726-8b3725f5-9b2f-4fb2-8ffe-5516f5a5ad45.png">
 </p> -->
