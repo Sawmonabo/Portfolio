@@ -25,9 +25,16 @@
   <img width="300" height="250" src="https://user-images.githubusercontent.com/77422313/162359726-8b3725f5-9b2f-4fb2-8ffe-5516f5a5ad45.png">
 </p> -->
 
+### [Project 2: Java-Jsoup GoogleStock Analysis](https://github.com/Sawmonabo/GoogleFinance_Java_Scraping)
+*  Perform web scraping with Java using the JSoup package.
+*  Creating and using methods to perform stock analysis.
+*  Object Oriented Program
+*  Entering a ticker name and receiving information on the company and its finances. 
+*  Includes a runner file to be ran as the main, as well as, the unix command to run the program with the jsoup.jar file correctly.
 
 
-### [Project 2: House Price Prediction](https://github.com/Sawmonabo/HousePricePrediction)
+
+### [Project 3: House Price Prediction](https://github.com/Sawmonabo/HousePricePrediction)
 * Purpose of this project is to research and apply the various machine learning regression algorithms to undertake different models.
 * Identify a hedonic property price model that can be used to predict residential property prices in Orlando as a function of the physical and locational attributes of the properties. 
 * The data is first preprocessed and is then analyzed to summarize the main characteristics of the variables such as their correlation or any observable patterns.
@@ -39,10 +46,3 @@
 </p>
 <!-- <img src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png" width="400" height="250"> -->
 
-
-
-### [Project 3: Stock Ticker Analyzer (Java Program)](https://github.com/Sawmonabo/StockAnalysis/blob/main/project3/stock/StockData.java)
-* COMING SOON TO A GitHub NEAR YOU ;) ... work in progress!
-* Using Javs's JSoup.jar to scrape stock (ticker) data off of Google Finance.
-* Creating and using methods to perform stock analysis.
-* Object Oriented Program
