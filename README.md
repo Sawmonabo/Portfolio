@@ -29,10 +29,12 @@
 *  Perform web scraping with Java using the JSoup library.
 *  Creating and using methods to perform stock analysis.
 *  Object Oriented Program
-*  Entering a ticker name and receiving information on the company and its finances. 
+*  Taking user-input from the terminal to search a ticker name and receive information on the company and its finances. 
 *  Includes a runner file to be ran as the main, as well as, the unix command to run the program with the jsoup.jar file correctly.
-
-
+<p align="center">
+  <img width="450" height="250" src="https://user-images.githubusercontent.com/77422313/162590040-714b40dc-a223-4aec-82ef-e1b70642a282.jpeg">
+</p>
+<!-- ![GoogleStock - -zsh - 80x27](https://user-images.githubusercontent.com/77422313/162590040-714b40dc-a223-4aec-82ef-e1b70642a282.jpeg) -->
 
 ### [Project 3: House Price Prediction](https://github.com/Sawmonabo/HousePricePrediction)
 * Purpose of this project is to research and apply the various machine learning regression algorithms to undertake different models.
@@ -42,7 +44,7 @@
 * Optimized Linear, Lasso, Ridge, and Extreme Gradient Boosting using RandomSearchCV to reach the best model.
 * The best model will be identified by the measure of MSE (mean squared error) and its accuracy to the validation set.
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png">
+  <img width="450" height="300" src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png">
 </p>
 <!-- <img src="https://user-images.githubusercontent.com/77422313/162089911-9a4bd427-f625-41de-a376-6a99b23884af.png" width="400" height="250"> -->
 
