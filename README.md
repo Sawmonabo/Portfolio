@@ -25,8 +25,8 @@
   <img width="300" height="250" src="https://user-images.githubusercontent.com/77422313/162359726-8b3725f5-9b2f-4fb2-8ffe-5516f5a5ad45.png">
 </p> -->
 
-### [Project 2: Java-Jsoup GoogleStock Analysis](https://github.com/Sawmonabo/GoogleFinance_Java_Scraping)
-*  Perform web scraping with Java using the JSoup package.
+### [Project 2: Java Web Scraping - GoogleStock Analysis](https://github.com/Sawmonabo/GoogleFinance_Java_Scraping)
+*  Perform web scraping with Java using the JSoup library.
 *  Creating and using methods to perform stock analysis.
 *  Object Oriented Program
 *  Entering a ticker name and receiving information on the company and its finances. 
