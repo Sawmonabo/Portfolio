@@ -16,9 +16,9 @@
 
 # Projects:
 
-### [Project 1:  Web scraping For Jobs](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
+### [Project 1: Python Web scraping - JobFinder](https://github.com/Sawmonabo/WebScraper/blob/main/webScraper.py)
 *  Perform web scraping with Python using the Beautiful Soup library.
-*  Looking for python related job listing on [TimesJobs](https://www.timesjobs.com/) website.
+*  Looking for python related job listings on [TimesJobs](https://www.timesjobs.com/) website.
 *  Includes filter to exclude a specific skill.
 
 <!-- <p align="center">
