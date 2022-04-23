@@ -40,6 +40,12 @@
 
 <br />
 
+<p align="center">
+  <img width="400" height="250" src="https://user-images.githubusercontent.com/77422313/164948693-22d3fa06-0967-4e88-84fd-e968ec38efd2.png">
+</p>
+
+<br />
+
 ### [Java Web Scraping - GoogleStock Analysis](https://github.com/Sawmonabo/GoogleFinance_Java_Scraping)
 *  Perform web scraping with Java using the JSoup library.
 *  Creating and using methods to perform stock analysis.
