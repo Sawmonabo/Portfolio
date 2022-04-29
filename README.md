@@ -38,11 +38,15 @@
 *  Java OOP and encapsulation methods used.
 *  Usage of a MultiValueMap hashSet.
 
+<!-- ![68747470733a2f2f696d672e796f75747562652e636f6d2f76692f4e524a43395552727a71732f6d617872657364656661756c742e6a7067](https://user-images.githubusercontent.com/77422313/165886362-1cba06c9-c029-4a54-b46a-970e33c45325.jpeg)
+ -->
 <br />
 
 <p align="center">
-  <img width="400" height="250" src="https://user-images.githubusercontent.com/77422313/164948693-22d3fa06-0967-4e88-84fd-e968ec38efd2.png">
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/77422313/165886362-1cba06c9-c029-4a54-b46a-970e33c45325.jpeg">
 </p>
+
+
 
 <br />
 
