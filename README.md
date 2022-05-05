@@ -10,7 +10,7 @@
 > Email: abossedghs@gmail.com
 
 # Additional Resources
-> [Resume](https://github.com/Sawmonabo/SawmonAbo_Portfolio/files/8448381/resume.pdf)
+> [Resume](https://github.com/Sawmonabo/SawmonAbo_Portfolio/files/8636378/Resume.pdf)
 
 # Projects:
 
