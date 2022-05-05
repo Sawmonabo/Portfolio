@@ -7,7 +7,7 @@
 > 
 > [Twitter](https://twitter.com/Sawmonabo)
 > 
-> Email: a.sawmon@knights.ucf.edu
+> Email: abossedghs@gmail.com
 
 # Additional Resources
 > [Resume](https://github.com/Sawmonabo/SawmonAbo_Portfolio/files/8448381/resume.pdf)
@@ -51,10 +51,10 @@
 <br />
 
 ### [Java Web Scraping - GoogleStock Analysis](https://github.com/Sawmonabo/GoogleFinance_Java_Scraping)
+*  Taking user-input from the terminal to search a ticker name and receive information on the company and its finances. 
 *  Perform web scraping with Java using the JSoup library.
 *  Creating and using methods to perform stock analysis.
 *  Object Oriented Program
-*  Taking user-input from the terminal to search a ticker name and receive information on the company and its finances. 
 *  Includes a runner file to be ran as the main, as well as, the unix command to run the program with the jsoup.jar file correctly.
 
 <br />
