@@ -1,16 +1,16 @@
 
 # Contact Information
 > 
-> LinkedIn, [click here](https://www.linkedin.com/in/sawmonabo).
+> [LinkedIn](https://www.linkedin.com/in/sawmonabo).
 > 
-> Github, [click here](https://github.com/Sawmonabo).
+> [Github](https://github.com/Sawmonabo).
 > 
-> Twitter, [click here](https://twitter.com/Sawmonabo).
+> [Twitter](https://twitter.com/Sawmonabo).
 > 
 > Email: a.sawmon@knights.ucf.edu
 
 # Additional Resources
-> Resume, [click here](https://github.com/Sawmonabo/SawmonAbo_Portfolio/files/8448381/resume.pdf)
+> [Resume](https://github.com/Sawmonabo/SawmonAbo_Portfolio/files/8448381/resume.pdf)
 
 # Projects:
 
@@ -31,7 +31,7 @@
 <br />
 
 ### [Yahoo StockData API - REST API Using Java/SpringBoot/Maven/MonogDB](https://github.com/Sawmonabo/StockData)
-*  The application is able to fetch stock data on any ticker provided by the YahooFinance API, as well as, storing data to a MongoDB database. 
+*  The application is able to fetch stock data from the YahooFinance API on any ticker provided by user input, as well as, storing data to a MongoDB database. 
 *  In this application we used SpringBoot and Maven to help reduce boilerplate code and to use different dependiccies.
 *  Used a Full Stack solution to create a front-end application to the YahooFinance API and a back-end application using MongoDB to create a local data base. 
 *  Integration of Service/Model/Application packages to provide clarity for class usage.
