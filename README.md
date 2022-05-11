@@ -1,5 +1,7 @@
 
 # Contact Information
+<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/77422313/167956916-adf7a8cc-bdca-4a77-b7ad-fc00d3ab9378.jpg">
+
 > 
 > [LinkedIn](https://www.linkedin.com/in/sawmonabo)
 > 
