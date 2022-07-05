@@ -13,6 +13,8 @@
 
 # Additional Resources
 > [Resume](https://github.com/Sawmonabo/SawmonAbo_Portfolio/files/8636378/Resume.pdf)
+>
+> [Programming Topics](https://github.com/Sawmonabo/Technical-Interview-Topics/blob/main/README.md)
 
 # Projects:
 
